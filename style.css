@@ -139,6 +139,8 @@ section
   text-align:center;
   margin-bottom:40px;
   font-size:32px;
+  color: #fff;
+  font-weight: 700;
 }
 
 .about-wrapper{
@@ -264,6 +266,11 @@ section
   background: #121212;
   padding: 80px 20px;
   text-align: center;
+}
+
+.deals h2{
+  color: #fff;
+  
 }
 
 /* Desktop: 4 + 4 */
